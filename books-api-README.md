@@ -136,13 +136,6 @@ npm run dev
 
 ---
 
-## ✅ Submission
-
-1. Push to GitHub
-2. Submit the public repo link in the Airtable form
-
----
-
 ## 🙌 Author
 
 **Harsh Parmar**  
